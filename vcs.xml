@@ -6,8 +6,12 @@
           <option name="url" value="https://github.com/tanzhengyang/config-client.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/spring-cloud/spring-cloud-gateway.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\works" />
+    <option name="cloneParentDir" value="D:\自己使用额\spring" />
   </component>
 </application>
