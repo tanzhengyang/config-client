@@ -1,3 +1,6 @@
+server:
+  port: 8766
+
 spring:
   application:
     name: config-server
@@ -5,12 +8,11 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/forezp/SpringcloudConfig/
-          search-paths: respo
+          uri: https://github.com/tanzhengyang/config-client.git
           username:
           password:
+          default-label: master
+          search-paths: /**
       label: master
 
-server:
-  port: 8766
 
