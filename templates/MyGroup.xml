@@ -1,0 +1,9 @@
+<templateSet group="MyGroup">
+  <template name="/**" value="/** &#10; *&#10; * @author Tanzy&#10; * @date $date$ $time$&#10; * @Version 1.0&#10; * @Description&#10; */&#10;" toReformat="false" toShortenFQNames="false">
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="time" expression="time()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
