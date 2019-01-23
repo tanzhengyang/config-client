@@ -62,6 +62,10 @@
           <option name="url" value="https://code.ddbes.com/ddbes/ddbes-cms.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/kongzhidea/pay.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\works" />
