@@ -70,6 +70,10 @@
           <option name="url" value="https://github.com/OUYANGSIHAI/sihai-maven-ssm-alipay.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://code.joinutech.com/SmartPark/SmartParkServer.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\works" />
