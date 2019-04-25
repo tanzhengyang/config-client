@@ -98,6 +98,10 @@
           <option name="url" value="http://code.joinutech.com/ddbes/ddbes-organization.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://code.joinutech.com/ddbes/ddbes-im.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\works" />
