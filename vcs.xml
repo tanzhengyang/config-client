@@ -142,6 +142,10 @@
           <option name="url" value="http://code.joinutech.com/ddbesUsers/hiteamDDBES.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://code.joinutech.com/range/operations.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\works" />
