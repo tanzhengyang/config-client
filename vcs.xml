@@ -146,6 +146,10 @@
           <option name="url" value="http://code.joinutech.com/range/operations.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/freew01f/grpc-starter-demo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\works" />
